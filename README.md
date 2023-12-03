@@ -25,6 +25,6 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
-If you have any questions or need further assistance, feel free to contact us at your-subhadeephazra68@gmail.com.
+If you have any questions or need further assistance, feel free to contact us at your-chumkic173@gmail.com
 
 Thank you for using the Geolocation Weather App! We hope you find it helpful and enjoy using it. Happy coding!
